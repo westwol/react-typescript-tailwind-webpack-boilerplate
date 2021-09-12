@@ -57,6 +57,8 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "agora-rtc-react": "git://github.com/AgoraIO-Community/agora-rtc-react#v1.0.1",
+    "agora-rtc-sdk-ng": "^4.6.3",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   }
